@@ -9,3 +9,4 @@ aiofiles
 colorama
 pyrogram
 tgcrypto
+python-3.11.11
